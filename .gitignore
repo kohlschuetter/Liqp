@@ -23,3 +23,6 @@ bin/
 
 *.tokens
 ruby/.jekyll-cache
+/target-eclipse/
+
+/coding-style/
